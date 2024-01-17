@@ -38,4 +38,4 @@ Liberty Carz is a digital automotive marketplace in Cambodia. With Liberty Carz,
 ### 3. Idiom.
 
 - _"Muốn đi riêng thì đi một mình. Muốn đi chung thì đi cùng nhau."_
-- _"Trong nhà có người già như một báu vật."_
+- _"Trong nhà có người già như một báu vật."_ ([__Bá tước giun đũa__](https://github.com/baronha), Jan 17, 2024).
