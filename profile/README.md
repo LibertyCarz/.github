@@ -4,7 +4,7 @@
 
 Liberty Carz is a digital automotive marketplace in Cambodia. With Liberty Carz, customers can source high-quality cars, and merchants can connect with a focused customer base.
 
-![alt text](https://libertycarz.com/_next/image?url=/images/about-us/people-show-number-one.jpg&amp&w=1920&amp&q=75 "Title")
+![Carz Team](https://github.com/LibertyCarz/.github/blob/main/assets/img/team-profile.jpg?raw=true "Carz Team")
 
 ### 2. All the member we have.
 
