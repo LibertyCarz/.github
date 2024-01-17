@@ -17,13 +17,13 @@ Liberty Carz is a digital automotive marketplace in Cambodia. With Liberty Carz,
 - Nguyễn Tuấn Anh
 - Phạm Thế Anh
 
-#### QC Team
+#### QC Team:
 
 - ALICE ~ Nguyễn Thị Trang [@NguyenTrang091296](https://github.com/NguyenTrang091296)
 - LILLY ~ Phan Lê Khánh Ly [@plkly](https://github.com/plkly)
-- Võ Văn Trọng [@vantrong100820](https://github.com/vantrong100820)
+- JUSTIN ~ Võ Văn Trọng [@vantrong100820](https://github.com/vantrong100820)
 
-### IT Team
+### IT Team:
 
 - LONG ~ Hà Gia Bảo [@baronha](https://github.com/baronha)
 - BEVIS ~ Ngô Công Tuấn [@bevisngo](https://github.com/bevisngo)
