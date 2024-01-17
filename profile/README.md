@@ -32,8 +32,8 @@ Liberty Carz is a digital automotive marketplace in Cambodia. With Liberty Carz,
 - ENVI ~ Nguyễn Văn Thanh [@NguyenThanhIt9x](https://github.com/NguyenThanhIt9x)
 - TITUS ~ Phạm Nguyễn Tiến [@phamtien1709](https://github.com/phamtien1709)
 - LIANG ~ Lương Hồng Quân [@quanjongliang](https://github.com/quanjongliang)
-- NICK ~ PHẠM TUẤN NGỌC [@tuanngocptn](https://github.com/tuanngocptn)
-- TEDDY ~ PHAN THANH BÌNH [@vladimirteddy](https://github.com/vladimirteddy)
+- NICK ~ Phạm Tuấn Ngọc [@tuanngocptn](https://github.com/tuanngocptn)
+- TEDDY ~ Phan Thanh Bình [@vladimirteddy](https://github.com/vladimirteddy)
 
 ### 3. Idiom.
 
