@@ -37,4 +37,4 @@ Liberty Carz is a digital automotive marketplace in Cambodia. With Liberty Carz,
 
 ### 3. Idiom.
 
-- _Muốn đi riêng thì đi một mình Muốn đi đông thì đi cùng nhau_.
+- _Muốn đi riêng thì đi một mình. Muốn đi đông thì đi cùng nhau_.
