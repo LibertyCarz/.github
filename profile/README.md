@@ -16,6 +16,7 @@ Liberty Carz is a digital automotive marketplace in Cambodia. With Liberty Carz,
 - DANIEL ~ Huỳnh Công Quốc [@quochc](https://github.com/quochc)
 - Nguyễn Tuấn Anh
 - Phạm Thế Anh [@anhpt191](https://github.com/anhpt191)
+- SABRINA - Nguyễn Đông Thi [@Sabrina0911](https://github.com/Sabrina0911)
 
 #### QC Team.
 
@@ -37,5 +38,5 @@ Liberty Carz is a digital automotive marketplace in Cambodia. With Liberty Carz,
 
 ### 3. Idiom.
 
-- _"Muốn đi riêng thì đi một mình. Muốn đi chung thì đi cùng nhau."_
+- _"Muốn đi về thì đi một mình. Muốn đi nhậu thì đi cùng nhau."_
 - _"Trong nhà có người già như một báu vật."_ ([**Bá tước giun đũa**](https://github.com/baronha), January 17 2024).
